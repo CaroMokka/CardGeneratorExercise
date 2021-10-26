@@ -6,7 +6,7 @@
   box-sizing: border-box;
 }
 body {
-  background-color: green;
+  background-color: white;
 }
 
 .card {
@@ -17,6 +17,7 @@ body {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
 }
 .icon1 {
   font-size: 45px;
@@ -35,4 +36,5 @@ body {
 }
 button {
   margin: 10px;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
 }
